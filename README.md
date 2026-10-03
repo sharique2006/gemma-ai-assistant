@@ -54,3 +54,28 @@ Ollama
 Gemma 2B
 LangChain
 Streamlit
+
+Learning Objectives
+
+This project helped me understand:
+
+Large Language Models
+LangChain
+Prompt Templates
+LLM Chains
+Output Parsers
+Ollama
+Local LLMs
+Streamlit
+LangSmith
+LLM observability and tracing
+
+Future Improvements
+💬 Chat history
+🧠 Conversation memory
+📄 PDF/document question answering
+🔎 Retrieval-Augmented Generation (RAG)
+🎤 Voice input
+🌐 Web search
+⚡ Streaming responses
+🎨 More advanced UI
